@@ -17,6 +17,5 @@ Students need an easy way to learn concepts. Making videos manually takes time.
 - docs/design_doc.md → thought process & trade-offs  
 - code/main.py → simple demo code  
 
-## Notes
-Repo name: `AI_YourName`  
-Deadline: 90 minutes (last commit counts)
+
+
